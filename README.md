@@ -1,7 +1,7 @@
 # React-Fundamentals-Lab
 
 ## Task1: 
-Using cmd create react an app and display the UI on the screen.
+Using cmd create a react app and display the UI on the screen.
 
 ## Task2: 
 ### Follow these steps:
