@@ -1,6 +1,9 @@
 # React-Fundamentals-Lab
 
 ## Task1: 
+Using cmd create react app and display the UI in the screen.
+
+## Task2: 
 ### Follow these steps:
 
 * Create react app using `npx create-react-app todo-list`
@@ -8,7 +11,7 @@
 
 
 
-## Task2:
+## Task3:
 ### Create functional component 
 
 * Create `Task` 
