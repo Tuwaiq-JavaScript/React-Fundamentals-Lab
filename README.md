@@ -18,7 +18,7 @@
 ### Create a functional component 
 
 * Create a `Task` 
-    * It should be built using function and class component
+    * It should be built using functional and class component
     * It should recive a props called taskName with a string vlaue 
     * It should render the name into the page and it should also have an update button and a delete button
 
