@@ -1,12 +1,7 @@
 # React-Fundamentals-Lab
 
 ## Task1: 
-* Using CDN create a react app and display the UI on the screen.
 
-* Add babel to you'r app and try to use JSX element
-
-
-## Task2: 
 ### Follow these steps:
 
 * Create a react app using `npx create-react-app todo-list`
@@ -14,7 +9,7 @@
 
 
 
-## Task3:
+## Task2:
 ### Create a functional component 
 
 * Create a `Task` 
